@@ -1,10 +1,10 @@
 # nuassociates
 
-## Install dependency
+### Install dependency
 npm run install
 
-## Build - Dev mode
+### Build - Dev mode
 npm run dev
 
-## Build - Production mode
+### Build - Production mode
 npm run build
